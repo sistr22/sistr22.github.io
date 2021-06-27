@@ -1,3 +1,0 @@
-User-agent: *
-
-http://sistr22.github.io/sitemap.xml
